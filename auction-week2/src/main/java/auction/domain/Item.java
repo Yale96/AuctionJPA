@@ -127,6 +127,6 @@ public class Item implements Comparable {
 
     public int hashCode() {
         //TODO
-        return id.intValue();
+        return id.hashCode();
     }
 }

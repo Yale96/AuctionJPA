@@ -61,6 +61,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="auction.service.JPASellerMgrTest" name="testOfferItem" time="0.01"/>
-  <testcase classname="auction.service.JPASellerMgrTest" name="testRevokeItem" time="0.036"/>
+  <testcase classname="auction.service.JPASellerMgrTest" name="testOfferItem" time="0.015"/>
+  <testcase classname="auction.service.JPASellerMgrTest" name="testRevokeItem" time="0.032"/>
 </testsuite>
